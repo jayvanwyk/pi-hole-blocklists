@@ -21,3 +21,4 @@ adfox.yandex.ru
 grs.hicloud.com
 logservice.hicloud.com
 samsung-com.112.2o7.net
+app.grow.me
